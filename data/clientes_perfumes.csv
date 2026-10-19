@@ -1,0 +1,327 @@
+id_cliente,edad,canal_origen,genero_preferido,familia_olfativa,num_compras,ticket_promedio,dias_ultima_compra,uso_promocion,calificacion,recompra_ultima_campana
+C0001,30.0,Catálogo web,Unisex,Oriental,3,1259.0,12,No,4.0,Sí
+C0002,49.0,Instagram,Femenino,Oriental,1,943.0,124,No,1.0,No
+C0003,52.0,Recomendación,Masculino,Floral,4,723.0,24,No,4.0,Sí
+C0004,31.0,Catálogo web,Femenino,Fresca,2,906.0,175,No,3.0,No
+C0005,23.0,WhatsApp,Unisex,Floral,2,1475.0,201,No,5.0,No
+C0006,55.0,Recomendación,Femenino,Amaderada,1,1311.0,209,No,1.0,No
+C0007,24.0,Catálogo web,Femenino,Fresca,4,1054.0,145,Sí,5.0,No
+C0008,42.0,Catálogo web,Femenino,Floral,3,1317.0,152,No,2.0,No
+C0009,27.0,WhatsApp,Femenino,Amaderada,5,694.0,222,No,1.0,No
+C0010,23.0,Instagram,Masculino,Oriental,3,1111.0,148,No,4.0,No
+C0011,50.0,WhatsApp,Femenino,Floral,4,1152.0,109,No,3.0,No
+C0012,24.0,Recomendación,Masculino,Fresca,4,936.0,182,Sí,5.0,Sí
+C0013,46.0,Instagram,Femenino,Cítrica,2,1252.0,143,No,1.0,No
+C0014,47.0,Catálogo web,Unisex,Amaderada,3,827.0,202,No,1.0,No
+C0015,20.0,Instagram,Masculino,Fresca,2,1278.0,128,Sí,3.0,Sí
+C0016,25.0,WhatsApp,Femenino,Cítrica,2,1293.0,209,Sí,5.0,Sí
+C0017,51.0,Instagram,Masculino,Floral,3,350.0,15,No,3.0,No
+C0018,39.0,WhatsApp,Femenino,Oriental,4,1517.0,13,No,4.0,Sí
+C0019,23.0,Catálogo web,Masculino,Cítrica,4,350.0,28,No,5.0,Sí
+C0020,59.0,Instagram,Unisex,Amaderada,3,884.0,135,Sí,5.0,No
+C0021,29.0,Catálogo web,Masculino,Oriental,6,1459.0,171,Sí,3.0,No
+C0022,18.0,WhatsApp,Unisex,Cítrica,3,989.0,55,No,4.0,Sí
+C0023,56.0,Recomendación,Femenino,Oriental,4,587.0,41,No,3.0,No
+C0024,18.0,Recomendación,Femenino,Fresca,4,717.0,207,No,4.0,No
+C0025,41.0,Catálogo web,Femenino,Oriental,3,1459.0,181,No,3.0,No
+C0026,59.0,WhatsApp,Femenino,Oriental,1,427.0,157,No,3.0,No
+C0027,42.0,Instagram,Unisex,Floral,1,1495.0,119,No,3.0,No
+C0028,42.0,WhatsApp,Masculino,Floral,4,1081.0,103,No,4.0,No
+C0029,34.0,WhatsApp,Femenino,Cítrica,2,683.0,9,No,4.0,No
+C0030,23.0,Catálogo web,Masculino,Fresca,4,896.0,49,No,5.0,Sí
+C0031,42.0,Catálogo web,Femenino,Cítrica,1,744.0,215,Sí,4.0,No
+C0032,,Recomendación,Masculino,Floral,2,1403.0,84,Sí,1.0,Sí
+C0033,21.0,WhatsApp,Femenino,Oriental,4,1356.0,170,No,3.0,Sí
+C0034,54.0,WhatsApp,Femenino,Fresca,5,498.0,170,No,2.0,No
+C0035,35.0,Instagram,Femenino,Fresca,4,959.0,77,No,1.0,Sí
+C0036,,WhatsApp,Femenino,Floral,2,798.0,53,Sí,1.0,No
+C0037,24.0,WhatsApp,Femenino,Oriental,4,1553.0,167,No,,Sí
+C0038,44.0,Instagram,Femenino,Cítrica,5,627.0,26,Sí,5.0,Sí
+C0039,25.0,,Femenino,Cítrica,3,1661.0,121,No,3.0,No
+C0040,29.0,Catálogo web,Femenino,Floral,9,1088.0,213,No,3.0,Sí
+C0041,48.0,Instagram,Unisex,Amaderada,3,693.0,172,No,1.0,No
+C0042,,Catálogo web,Masculino,Floral,3,863.0,184,No,4.0,No
+C0043,36.0,Catálogo web,Masculino,Cítrica,4,819.0,24,Sí,,No
+C0044,42.0,WhatsApp,Masculino,Fresca,1,654.0,51,Sí,5.0,Sí
+C0045,23.0,Catálogo web,Femenino,Fresca,4,1133.0,69,No,5.0,No
+C0046,30.0,Catálogo web,Femenino,Amaderada,2,670.0,73,No,5.0,Sí
+C0047,32.0,WhatsApp,Femenino,Oriental,3,350.0,50,No,2.0,No
+C0048,45.0,WhatsApp,Femenino,Amaderada,2,967.0,233,Sí,1.0,No
+C0049,59.0,Catálogo web,Masculino,Oriental,4,469.0,43,Sí,2.0,Sí
+C0050,53.0,WhatsApp,Unisex,Floral,2,837.0,171,Sí,4.0,Sí
+C0051,25.0,WhatsApp,Femenino,Cítrica,4,782.0,142,Sí,2.0,Sí
+C0052,18.0,WhatsApp,Masculino,Oriental,3,795.0,148,Sí,5.0,Sí
+C0053,,Catálogo web,Masculino,Cítrica,4,1800.0,55,No,1.0,No
+C0054,43.0,Catálogo web,Masculino,Fresca,4,1120.0,77,No,1.0,No
+C0055,24.0,Catálogo web,Masculino,Cítrica,4,1186.0,147,Sí,2.0,No
+C0056,27.0,Catálogo web,Masculino,Fresca,2,478.0,75,Sí,4.0,Sí
+C0057,53.0,Instagram,Unisex,Oriental,5,871.0,168,Sí,4.0,No
+C0058,54.0,Instagram,Femenino,Floral,2,1175.0,14,No,2.0,Sí
+C0059,53.0,WhatsApp,Masculino,Oriental,5,741.0,22,Sí,4.0,Sí
+C0060,28.0,WhatsApp,Femenino,Cítrica,2,1418.0,176,No,4.0,No
+C0061,,Catálogo web,Femenino,Cítrica,2,679.0,149,No,3.0,No
+C0062,43.0,Instagram,Unisex,Amaderada,1,1000.0,15,Sí,3.0,No
+C0063,25.0,Instagram,Femenino,Amaderada,1,895.0,216,No,1.0,No
+C0064,41.0,Catálogo web,Femenino,Cítrica,1,1158.0,6,No,2.0,No
+C0065,40.0,Instagram,Masculino,Amaderada,3,876.0,229,Sí,3.0,No
+C0066,34.0,Instagram,Unisex,Fresca,3,1005.0,176,Sí,1.0,No
+C0067,49.0,Instagram,Femenino,Fresca,2,1017.0,237,No,3.0,No
+C0068,46.0,WhatsApp,Unisex,Oriental,4,843.0,227,No,1.0,No
+C0069,40.0,WhatsApp,Masculino,Oriental,3,1270.0,78,No,4.0,No
+C0070,48.0,Instagram,Unisex,Cítrica,4,1183.0,182,No,1.0,No
+C0071,50.0,WhatsApp,Femenino,Amaderada,2,1069.0,54,Sí,1.0,No
+C0072,41.0,Instagram,Masculino,Floral,3,949.0,115,No,4.0,No
+C0073,29.0,Recomendación,Femenino,Cítrica,1,1379.0,61,No,2.0,No
+C0074,49.0,WhatsApp,Femenino,Fresca,2,1017.0,119,Sí,2.0,No
+C0075,,WhatsApp,Masculino,Floral,4,993.0,210,No,2.0,No
+C0076,59.0,WhatsApp,Femenino,Cítrica,3,1137.0,107,No,2.0,Sí
+C0077,24.0,WhatsApp,Unisex,Floral,5,1694.0,26,No,4.0,Sí
+C0078,35.0,Catálogo web,Masculino,Amaderada,4,631.0,81,Sí,4.0,Sí
+C0079,56.0,Instagram,Femenino,Amaderada,4,1369.0,189,Sí,2.0,No
+C0080,39.0,Catálogo web,Femenino,Floral,1,437.0,127,No,4.0,Sí
+C0081,57.0,Catálogo web,Masculino,Amaderada,3,1176.0,136,No,4.0,No
+C0082,18.0,Instagram,Unisex,Amaderada,5,1651.0,106,No,3.0,Sí
+C0083,19.0,Catálogo web,Femenino,Floral,3,1271.0,73,No,3.0,No
+C0084,51.0,WhatsApp,Masculino,Floral,3,1160.0,145,No,5.0,No
+C0085,33.0,WhatsApp,Unisex,Cítrica,1,904.0,153,Sí,3.0,No
+C0086,39.0,WhatsApp,Unisex,Amaderada,3,1111.0,216,Sí,2.0,No
+C0087,35.0,Catálogo web,Masculino,Floral,3,1012.0,150,Sí,3.0,No
+C0088,35.0,Instagram,Unisex,Cítrica,3,825.0,238,Sí,5.0,No
+C0089,57.0,WhatsApp,Masculino,Fresca,2,999.0,199,No,4.0,No
+C0090,21.0,Instagram,Unisex,Oriental,2,1169.0,23,Sí,1.0,No
+C0091,50.0,WhatsApp,Femenino,Fresca,2,831.0,97,Sí,3.0,Sí
+C0092,,Catálogo web,Femenino,Floral,2,818.0,95,No,4.0,No
+C0093,45.0,Instagram,Masculino,Cítrica,2,624.0,5,Sí,2.0,Sí
+C0094,34.0,WhatsApp,Unisex,Cítrica,3,1237.0,47,Sí,5.0,No
+C0095,24.0,WhatsApp,Masculino,Fresca,1,1291.0,184,No,5.0,No
+C0096,46.0,,Masculino,Fresca,2,1181.0,87,Sí,,Sí
+C0097,37.0,WhatsApp,Masculino,Fresca,2,1438.0,39,No,1.0,No
+C0098,24.0,WhatsApp,Femenino,Oriental,3,1131.0,72,No,3.0,Sí
+C0099,33.0,WhatsApp,Masculino,Cítrica,1,1237.0,69,Sí,3.0,No
+C0100,58.0,Recomendación,Unisex,Cítrica,1,1206.0,46,No,4.0,No
+C0101,29.0,Recomendación,Femenino,Fresca,2,1068.0,28,No,5.0,Sí
+C0102,25.0,Catálogo web,Masculino,Floral,6,914.0,184,No,2.0,Sí
+C0103,46.0,WhatsApp,Masculino,Floral,2,1875.0,198,No,3.0,No
+C0104,26.0,Recomendación,Masculino,Fresca,4,942.0,121,No,4.0,Sí
+C0105,56.0,Catálogo web,Femenino,Floral,5,867.0,149,No,4.0,No
+C0106,54.0,Catálogo web,Femenino,Floral,3,1252.0,221,No,4.0,No
+C0107,59.0,Instagram,Masculino,Cítrica,2,1188.0,203,Sí,2.0,No
+C0108,,WhatsApp,Unisex,Floral,1,608.0,12,No,5.0,Sí
+C0109,28.0,WhatsApp,Masculino,Fresca,4,1493.0,228,No,1.0,No
+C0110,26.0,Recomendación,Femenino,Fresca,5,1067.0,20,No,3.0,No
+C0111,32.0,Instagram,Unisex,Floral,3,711.0,11,Sí,4.0,Sí
+C0112,37.0,WhatsApp,Femenino,Cítrica,4,1516.0,99,Sí,1.0,Sí
+C0113,54.0,WhatsApp,Femenino,Fresca,2,1319.0,180,No,3.0,No
+C0114,48.0,Instagram,Unisex,Oriental,1,657.0,23,No,3.0,No
+C0115,45.0,WhatsApp,Masculino,Floral,2,1722.0,73,Sí,4.0,No
+C0116,54.0,Recomendación,Masculino,Cítrica,2,1331.0,66,Sí,1.0,No
+C0117,,Catálogo web,Masculino,Oriental,3,1096.0,98,Sí,2.0,No
+C0118,33.0,Catálogo web,Femenino,Oriental,5,1657.0,236,No,2.0,No
+C0119,35.0,Instagram,Femenino,Amaderada,5,1156.0,82,Sí,4.0,Sí
+C0120,39.0,Instagram,Femenino,Floral,1,1090.0,54,No,2.0,No
+C0121,21.0,Instagram,Unisex,Fresca,3,869.0,33,Sí,3.0,No
+C0122,49.0,Instagram,Masculino,Floral,5,1304.0,51,Sí,4.0,Sí
+C0123,45.0,WhatsApp,Femenino,Floral,4,1267.0,36,Sí,4.0,Sí
+C0124,48.0,Instagram,Masculino,Floral,3,1105.0,139,No,1.0,No
+C0125,40.0,WhatsApp,Masculino,Amaderada,7,824.0,103,No,5.0,Sí
+C0126,50.0,Instagram,Femenino,Amaderada,4,1145.0,122,No,1.0,No
+C0127,57.0,WhatsApp,Unisex,Floral,5,1076.0,200,No,1.0,No
+C0128,41.0,WhatsApp,Femenino,Fresca,3,633.0,141,Sí,1.0,No
+C0129,36.0,WhatsApp,Masculino,Amaderada,1,585.0,41,No,2.0,No
+C0130,22.0,Instagram,Femenino,Floral,4,1298.0,93,Sí,5.0,Sí
+C0131,50.0,WhatsApp,Masculino,Amaderada,2,350.0,78,Sí,2.0,Sí
+C0132,55.0,Recomendación,Unisex,Cítrica,4,1172.0,199,No,4.0,Sí
+C0133,47.0,Instagram,Femenino,Floral,4,933.0,77,Sí,3.0,No
+C0134,54.0,WhatsApp,Masculino,Oriental,3,1558.0,37,No,1.0,No
+C0135,54.0,Instagram,Masculino,Cítrica,2,927.0,177,No,3.0,No
+C0136,51.0,WhatsApp,Masculino,Oriental,2,1331.0,105,No,1.0,No
+C0137,39.0,Recomendación,Unisex,Oriental,5,961.0,27,No,3.0,Sí
+C0138,,Instagram,Femenino,Cítrica,5,1140.0,167,No,3.0,No
+C0139,18.0,Catálogo web,Femenino,Fresca,1,1358.0,54,Sí,3.0,No
+C0140,26.0,WhatsApp,Femenino,Cítrica,4,938.0,209,Sí,2.0,No
+C0141,36.0,Instagram,Femenino,Fresca,4,1449.0,200,Sí,4.0,No
+C0142,49.0,Instagram,Masculino,Fresca,3,752.0,91,No,3.0,No
+C0143,37.0,Recomendación,Unisex,Cítrica,1,1203.0,135,No,2.0,No
+C0144,,Instagram,Masculino,Oriental,2,1423.0,138,Sí,3.0,No
+C0145,26.0,Instagram,Femenino,Floral,4,1331.0,158,No,1.0,Sí
+C0146,59.0,WhatsApp,Femenino,Fresca,2,1771.0,21,No,5.0,No
+C0147,59.0,WhatsApp,Femenino,Oriental,3,833.0,81,No,4.0,No
+C0148,33.0,Instagram,Unisex,Fresca,3,617.0,45,No,2.0,No
+C0149,51.0,Instagram,Masculino,Floral,7,752.0,168,No,4.0,Sí
+C0150,48.0,,Femenino,Oriental,7,1331.0,21,No,4.0,Sí
+C0151,,Catálogo web,Femenino,Cítrica,3,1274.0,126,No,4.0,Sí
+C0152,55.0,Recomendación,Femenino,Amaderada,2,1136.0,176,Sí,1.0,No
+C0153,44.0,WhatsApp,Masculino,Amaderada,1,707.0,227,No,5.0,No
+C0154,34.0,Instagram,Masculino,Cítrica,5,1368.0,72,Sí,5.0,Sí
+C0155,44.0,WhatsApp,Masculino,Floral,2,671.0,6,No,5.0,Sí
+C0156,31.0,Catálogo web,Masculino,Amaderada,3,1506.0,175,Sí,5.0,Sí
+C0157,32.0,WhatsApp,Femenino,Cítrica,4,2100.0,5,Sí,5.0,Sí
+C0158,43.0,Catálogo web,Femenino,Oriental,2,1228.0,20,Sí,4.0,Sí
+C0159,41.0,Catálogo web,Femenino,Floral,2,1304.0,237,Sí,1.0,No
+C0160,42.0,Catálogo web,Femenino,Fresca,4,927.0,207,Sí,3.0,No
+C0161,34.0,WhatsApp,Femenino,Oriental,6,466.0,171,Sí,2.0,Sí
+C0162,35.0,Recomendación,Masculino,Cítrica,2,889.0,201,No,2.0,No
+C0163,18.0,WhatsApp,Femenino,Fresca,5,717.0,22,Sí,5.0,Sí
+C0164,43.0,,Masculino,Cítrica,4,594.0,25,No,5.0,Sí
+C0165,,Instagram,Masculino,Amaderada,3,1703.0,75,No,3.0,No
+C0166,57.0,WhatsApp,Femenino,Amaderada,3,1196.0,10,No,4.0,No
+C0167,39.0,Catálogo web,Femenino,Fresca,3,1233.0,213,Sí,1.0,No
+C0168,37.0,Catálogo web,Masculino,Fresca,4,992.0,18,Sí,2.0,No
+C0169,20.0,WhatsApp,Femenino,Oriental,2,1039.0,132,No,5.0,No
+C0170,26.0,Recomendación,Femenino,Amaderada,2,1438.0,205,Sí,3.0,No
+C0171,32.0,WhatsApp,Femenino,Floral,2,1089.0,177,Sí,3.0,No
+C0172,33.0,Instagram,Femenino,Amaderada,5,1286.0,60,No,3.0,No
+C0173,33.0,WhatsApp,Femenino,Amaderada,5,1031.0,115,No,2.0,Sí
+C0174,34.0,Recomendación,Masculino,Floral,4,980.0,133,Sí,5.0,Sí
+C0175,50.0,WhatsApp,Femenino,Cítrica,4,608.0,185,No,4.0,Sí
+C0176,23.0,WhatsApp,Femenino,Amaderada,5,408.0,105,No,4.0,No
+C0177,31.0,Instagram,Femenino,Fresca,2,1008.0,71,No,,No
+C0178,24.0,Recomendación,Femenino,Cítrica,2,1120.0,191,Sí,4.0,No
+C0179,30.0,Recomendación,Masculino,Floral,4,650.0,213,Sí,5.0,Sí
+C0180,46.0,Catálogo web,Femenino,Cítrica,3,1088.0,119,No,4.0,Sí
+C0181,19.0,Recomendación,Femenino,Oriental,4,1119.0,11,Sí,3.0,Sí
+C0182,32.0,Recomendación,Unisex,Floral,2,350.0,122,No,2.0,No
+C0183,18.0,Instagram,Unisex,Amaderada,3,780.0,213,Sí,3.0,No
+C0184,58.0,WhatsApp,Femenino,Amaderada,2,1243.0,237,No,2.0,No
+C0185,48.0,Catálogo web,Femenino,Fresca,1,1235.0,99,No,4.0,No
+C0186,28.0,Catálogo web,Femenino,Amaderada,3,696.0,40,No,1.0,No
+C0187,26.0,WhatsApp,Masculino,Oriental,5,1155.0,139,No,1.0,No
+C0188,22.0,WhatsApp,Unisex,Floral,3,1458.0,200,Sí,4.0,No
+C0189,37.0,Catálogo web,Femenino,Oriental,2,1372.0,227,No,2.0,No
+C0190,49.0,WhatsApp,Masculino,Amaderada,2,1067.0,17,Sí,3.0,Sí
+C0191,42.0,Recomendación,Masculino,Fresca,3,936.0,73,No,3.0,Sí
+C0192,55.0,WhatsApp,Unisex,Oriental,1,880.0,117,No,3.0,No
+C0193,32.0,WhatsApp,Masculino,Cítrica,2,1264.0,28,No,4.0,Sí
+C0194,29.0,Catálogo web,Masculino,Floral,2,1168.0,213,No,2.0,No
+C0195,38.0,WhatsApp,Masculino,Fresca,7,1320.0,31,No,4.0,Sí
+C0196,26.0,WhatsApp,Masculino,Floral,5,1146.0,161,Sí,2.0,No
+C0197,58.0,Instagram,Masculino,Cítrica,1,1387.0,220,No,2.0,No
+C0198,25.0,Recomendación,Femenino,Floral,3,1133.0,166,No,3.0,No
+C0199,38.0,WhatsApp,Masculino,Floral,4,1375.0,184,Sí,5.0,No
+C0200,39.0,WhatsApp,Unisex,Cítrica,5,1405.0,66,No,2.0,Sí
+C0201,,Catálogo web,Unisex,Amaderada,3,818.0,199,Sí,3.0,No
+C0202,37.0,Recomendación,Masculino,Amaderada,4,467.0,103,Sí,1.0,Sí
+C0203,37.0,Instagram,Masculino,Floral,3,1640.0,19,Sí,1.0,No
+C0204,28.0,WhatsApp,Femenino,Amaderada,2,1190.0,91,Sí,4.0,Sí
+C0205,23.0,WhatsApp,Masculino,Cítrica,5,500.0,87,No,4.0,Sí
+C0206,19.0,WhatsApp,Masculino,Fresca,3,850.0,127,No,2.0,No
+C0207,18.0,WhatsApp,Unisex,Amaderada,2,1370.0,67,No,4.0,No
+C0208,38.0,Catálogo web,Unisex,Amaderada,3,1002.0,113,No,2.0,No
+C0209,21.0,WhatsApp,Femenino,Amaderada,3,921.0,105,Sí,2.0,No
+C0210,58.0,Instagram,Masculino,Cítrica,3,1590.0,81,No,3.0,Sí
+C0211,28.0,Catálogo web,Femenino,Floral,5,733.0,168,Sí,2.0,No
+C0212,45.0,Instagram,Femenino,Cítrica,1,821.0,76,No,5.0,No
+C0213,46.0,WhatsApp,Masculino,Amaderada,3,1174.0,184,Sí,3.0,No
+C0214,38.0,Catálogo web,Femenino,Floral,2,1237.0,63,No,2.0,Sí
+C0215,55.0,Catálogo web,Masculino,Cítrica,2,1274.0,208,No,3.0,No
+C0216,22.0,Catálogo web,Masculino,Cítrica,3,1419.0,90,No,4.0,Sí
+C0217,27.0,WhatsApp,Femenino,Cítrica,2,1170.0,14,No,2.0,No
+C0218,28.0,WhatsApp,Masculino,Oriental,4,1271.0,40,Sí,5.0,Sí
+C0219,23.0,Recomendación,Masculino,Cítrica,4,1009.0,194,No,3.0,Sí
+C0220,30.0,WhatsApp,Unisex,Fresca,4,1122.0,209,No,4.0,No
+C0221,31.0,WhatsApp,Unisex,Cítrica,1,1138.0,54,No,5.0,Sí
+C0222,50.0,Instagram,Femenino,Floral,2,1175.0,146,No,3.0,No
+C0223,30.0,Catálogo web,Unisex,Floral,2,1370.0,139,No,1.0,No
+C0224,54.0,Recomendación,Unisex,Floral,5,1294.0,36,No,4.0,Sí
+C0225,50.0,WhatsApp,Masculino,Cítrica,2,1115.0,111,Sí,,No
+C0226,55.0,Recomendación,Femenino,Floral,1,817.0,168,No,3.0,No
+C0227,22.0,WhatsApp,Masculino,Fresca,3,1124.0,232,No,5.0,Sí
+C0228,59.0,Instagram,Masculino,Cítrica,3,1090.0,204,No,3.0,No
+C0229,43.0,Instagram,Femenino,Fresca,2,1168.0,27,No,4.0,No
+C0230,59.0,WhatsApp,Femenino,Oriental,4,1872.0,60,Sí,3.0,No
+C0231,32.0,WhatsApp,Femenino,Floral,3,917.0,107,No,2.0,Sí
+C0232,58.0,Instagram,Masculino,Floral,4,1248.0,40,Sí,2.0,No
+C0233,42.0,Recomendación,Masculino,Oriental,1,1474.0,139,Sí,3.0,No
+C0234,21.0,Instagram,Unisex,Floral,6,1134.0,7,No,1.0,Sí
+C0235,35.0,Recomendación,Masculino,Floral,4,1918.0,31,Sí,3.0,Sí
+C0236,23.0,Catálogo web,Masculino,Fresca,1,968.0,16,Sí,3.0,No
+C0237,57.0,Instagram,Masculino,Cítrica,2,1213.0,74,Sí,5.0,Sí
+C0238,30.0,Catálogo web,Femenino,Amaderada,3,820.0,184,No,1.0,No
+C0239,27.0,WhatsApp,Femenino,Cítrica,4,977.0,46,No,5.0,Sí
+C0240,41.0,WhatsApp,Femenino,Cítrica,3,1187.0,236,No,3.0,No
+C0241,35.0,Catálogo web,Masculino,Fresca,7,1396.0,68,Sí,4.0,Sí
+C0242,22.0,Catálogo web,Masculino,Oriental,3,1212.0,15,No,3.0,No
+C0243,52.0,WhatsApp,Unisex,Amaderada,3,1541.0,83,No,2.0,Sí
+C0244,53.0,Instagram,Femenino,Amaderada,5,1067.0,180,No,5.0,Sí
+C0245,49.0,Instagram,Femenino,Oriental,4,984.0,30,Sí,2.0,Sí
+C0246,43.0,Recomendación,Femenino,Amaderada,2,2046.0,21,Sí,1.0,Sí
+C0247,34.0,Instagram,Femenino,Floral,3,1238.0,204,No,4.0,Sí
+C0248,40.0,Instagram,Masculino,Amaderada,2,848.0,144,No,4.0,No
+C0249,39.0,WhatsApp,Masculino,Amaderada,3,857.0,85,No,5.0,Sí
+C0250,24.0,Instagram,Femenino,Fresca,3,770.0,182,No,,Sí
+C0251,21.0,Catálogo web,Masculino,Amaderada,4,1428.0,203,No,1.0,Sí
+C0252,28.0,Recomendación,Unisex,Amaderada,3,972.0,89,No,1.0,No
+C0253,37.0,Instagram,Femenino,Fresca,3,1145.0,136,Sí,3.0,No
+C0254,24.0,WhatsApp,Femenino,Amaderada,1,1078.0,7,No,2.0,No
+C0255,22.0,WhatsApp,Unisex,Fresca,6,1356.0,76,No,5.0,No
+C0256,53.0,Catálogo web,Femenino,Amaderada,3,804.0,144,Sí,1.0,No
+C0257,33.0,Catálogo web,Unisex,Amaderada,5,724.0,51,No,5.0,Sí
+C0258,42.0,WhatsApp,Femenino,Amaderada,5,1179.0,237,Sí,2.0,No
+C0259,40.0,WhatsApp,Unisex,Oriental,2,1310.0,233,No,1.0,No
+C0260,48.0,Instagram,Masculino,Oriental,1,1216.0,65,Sí,2.0,Sí
+C0261,49.0,WhatsApp,Femenino,Cítrica,1,817.0,98,No,1.0,No
+C0262,30.0,Catálogo web,Femenino,Floral,2,1337.0,49,Sí,3.0,Sí
+C0263,53.0,WhatsApp,Masculino,Amaderada,1,840.0,123,No,2.0,No
+C0264,33.0,WhatsApp,Masculino,Cítrica,6,917.0,34,No,3.0,No
+C0265,53.0,Recomendación,Unisex,Floral,4,770.0,96,Sí,3.0,No
+C0266,35.0,WhatsApp,Femenino,Cítrica,2,1555.0,135,No,1.0,No
+C0267,22.0,WhatsApp,Masculino,Oriental,3,1322.0,148,No,1.0,No
+C0268,49.0,WhatsApp,Masculino,Fresca,3,1312.0,145,No,1.0,No
+C0269,19.0,WhatsApp,Masculino,Cítrica,3,1537.0,57,Sí,1.0,Sí
+C0270,50.0,WhatsApp,Masculino,Amaderada,3,2084.0,191,No,1.0,No
+C0271,19.0,WhatsApp,Unisex,Floral,4,502.0,167,Sí,2.0,No
+C0272,26.0,WhatsApp,Femenino,Fresca,3,842.0,181,Sí,3.0,Sí
+C0273,43.0,WhatsApp,Masculino,Cítrica,3,884.0,114,No,2.0,No
+C0274,57.0,Instagram,Femenino,Oriental,4,802.0,214,No,2.0,No
+C0275,35.0,Catálogo web,Masculino,Cítrica,3,723.0,96,No,3.0,No
+C0276,23.0,WhatsApp,Masculino,Amaderada,2,995.0,194,Sí,3.0,No
+C0277,27.0,WhatsApp,Femenino,Fresca,4,674.0,52,No,2.0,Sí
+C0278,55.0,Instagram,Femenino,Oriental,4,1217.0,63,No,2.0,Sí
+C0279,48.0,Recomendación,Unisex,Fresca,5,1118.0,128,No,3.0,Sí
+C0280,22.0,Recomendación,Femenino,Fresca,1,1268.0,135,No,1.0,No
+C0281,34.0,WhatsApp,Femenino,Floral,4,1278.0,180,Sí,,No
+C0282,29.0,WhatsApp,Femenino,Floral,4,1311.0,74,Sí,5.0,Sí
+C0283,25.0,WhatsApp,Unisex,Floral,2,969.0,210,No,2.0,No
+C0284,53.0,WhatsApp,Femenino,Fresca,1,1842.0,82,No,1.0,No
+C0285,43.0,Instagram,Unisex,Cítrica,4,1182.0,130,Sí,4.0,Sí
+C0286,25.0,Instagram,Femenino,Cítrica,2,448.0,224,Sí,1.0,No
+C0287,45.0,WhatsApp,Unisex,Fresca,3,749.0,131,Sí,1.0,No
+C0288,35.0,WhatsApp,Masculino,Oriental,3,491.0,165,No,1.0,No
+C0289,20.0,Instagram,Femenino,Fresca,4,1106.0,218,Sí,5.0,No
+C0290,36.0,WhatsApp,Femenino,Fresca,5,1057.0,234,No,5.0,No
+C0291,25.0,Catálogo web,Femenino,Amaderada,2,936.0,122,No,,Sí
+C0292,28.0,WhatsApp,Femenino,Floral,8,1804.0,102,Sí,4.0,Sí
+C0293,54.0,Recomendación,Unisex,Oriental,3,1292.0,51,No,4.0,No
+C0294,47.0,WhatsApp,Unisex,Fresca,6,1354.0,131,No,4.0,No
+C0295,23.0,Catálogo web,Masculino,Amaderada,3,774.0,220,No,3.0,No
+C0296,53.0,Recomendación,Femenino,Floral,3,750.0,119,Sí,5.0,No
+C0297,42.0,Recomendación,Femenino,Cítrica,3,1113.0,86,Sí,,No
+C0298,54.0,Catálogo web,Masculino,Oriental,1,1161.0,30,Sí,1.0,No
+C0299,49.0,Catálogo web,Masculino,Amaderada,3,450.0,96,No,2.0,No
+C0300,32.0,Instagram,Masculino,Oriental,3,1037.0,60,No,5.0,Sí
+C0301,40.0,Catálogo web,Femenino,Floral,1,1105.0,234,Sí,3.0,No
+C0302,40.0,WhatsApp,Femenino,Floral,2,1025.0,128,Sí,2.0,Sí
+C0303,48.0,Instagram,Unisex,Cítrica,3,815.0,37,No,5.0,Sí
+C0304,28.0,Instagram,Femenino,Cítrica,1,911.0,20,Sí,4.0,Sí
+C0305,31.0,Recomendación,Unisex,Oriental,2,1038.0,204,Sí,3.0,No
+C0306,28.0,Instagram,Femenino,Floral,2,1132.0,223,No,3.0,No
+C0307,30.0,WhatsApp,Femenino,Fresca,3,1312.0,184,Sí,1.0,No
+C0308,24.0,Instagram,Masculino,Amaderada,1,1478.0,34,Sí,2.0,Sí
+C0309,19.0,WhatsApp,Femenino,Fresca,3,997.0,28,No,3.0,No
+C0310,57.0,,Femenino,Amaderada,3,940.0,51,Sí,5.0,Sí
+C0311,21.0,Instagram,Unisex,Oriental,2,1253.0,181,No,2.0,Sí
+C0312,55.0,Instagram,Unisex,Floral,5,1314.0,184,No,1.0,No
+C0313,18.0,WhatsApp,Masculino,Floral,3,948.0,201,No,3.0,No
+C0314,50.0,WhatsApp,Masculino,Amaderada,2,1377.0,27,Sí,5.0,Sí
+C0315,31.0,WhatsApp,Masculino,Oriental,3,1443.0,41,No,3.0,No
+C0316,39.0,WhatsApp,Masculino,Amaderada,4,1552.0,216,Sí,2.0,No
+C0317,29.0,WhatsApp,Femenino,Oriental,3,1722.0,223,No,4.0,No
+C0318,38.0,Catálogo web,Femenino,Oriental,3,797.0,175,Sí,4.0,Sí
+C0319,36.0,WhatsApp,Femenino,Fresca,1,1105.0,29,No,2.0,No
+C0320,40.0,Recomendación,Unisex,Oriental,2,1104.0,21,Sí,5.0,Sí
+C0124,48.0,Instagram,Masculino,Floral,3,1105.0,139,No,1.0,No
+C0111,32.0,Instagram,Unisex,Floral,3,711.0,11,Sí,4.0,Sí
+C0081,57.0,Catálogo web,Masculino,Amaderada,3,1176.0,136,No,4.0,No
+C0132,55.0,Recomendación,Unisex,Cítrica,4,1172.0,199,No,4.0,Sí
+C0133,47.0,Instagram,Femenino,Floral,4,933.0,77,Sí,3.0,No
+C0248,40.0,Instagram,Masculino,Amaderada,2,848.0,144,No,4.0,No
