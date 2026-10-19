@@ -277,17 +277,6 @@ Para publicar cambios, súbelos a la rama configurada en Streamlit. El servicio
 detectará los cambios y volverá a desplegar la aplicación. Si se modifica una
 dependencia, actualiza `requirements.txt` y vuelve a desplegar.
 
-## Solución de problemas
-
-| Síntoma | Causa posible y solución |
-|---|---|
-| `ModuleNotFoundError: No module named 'stream_train'` | Falta `stream_train/modelo.py` o no está incluido en Git. Crea/versiona el módulo requerido y revisa `.gitignore`. |
-| `FileNotFoundError` para el CSV | Verifica que exista `data/clientes_perfumes.csv`, que se haya subido al repositorio y que el nombre coincida exactamente. |
-| `ModuleNotFoundError` para `streamlit`, `pandas` o `sklearn` | Activa el entorno virtual e instala las dependencias con `pip install -r requirements.txt`. |
-| `KeyError` por una columna | El CSV no tiene el encabezado esperado. Comprueba que los nombres coincidan con la sección de datos de entrada. |
-| La tasa de recompra aparece como 0 % | Verifica la codificación y el valor de la columna objetivo: el código reconoce `"Sí"` exactamente. |
-| No abre la dirección local | Comprueba la terminal donde se ejecuta Streamlit, que el servidor siga activo y que el puerto indicado no esté bloqueado. |
-| Falla el despliegue después de cambiar dependencias | Revisa los registros de Community Cloud y confirma que las versiones del entorno sean compatibles con `requirements.txt`. |
 
 ## Privacidad y limitaciones
 
