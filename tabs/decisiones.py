@@ -7,8 +7,8 @@ from tabs.prescriptiva import ACCIONES
 
 MENSAJES = {
     "Leal activo": (
-        "«Eres de nuestros clientes favoritos: prueba antes que nadie "
-        "el nuevo lanzamiento.»"
+        "«Hola 👋 Hoy sale nuestro nuevo lanzamiento y quisimos que fueras "
+"de los primeros en saberlo. ¿Te apartamos uno?»"
     ),
     "Leal dormido": (
         "«Te extrañamos 🧴 Tu aroma favorito tiene 15 % de descuento esta semana.»"

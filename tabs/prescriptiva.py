@@ -5,7 +5,7 @@ import streamlit as st
 
 ACCIONES = {
     "Leal activo": (
-        "Programa VIP: acceso anticipado a lanzamientos",
+        "Programa VIP: aviso por WhatsApp el día del lanzamiento",
         "Sin descuento: ya compran; proteger margen",
     ),
     "Leal dormido": (
